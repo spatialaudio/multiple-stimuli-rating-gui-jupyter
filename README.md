@@ -16,5 +16,5 @@ The two Reaper projects provided are used by the notebook for demonstration purp
 - ipywidgets 7.6.5
 - ABComparison Plugin v1.4.0
 
-A corrosponding yml file called `msrg_env.yml` is included with the repository.
+A corresponding yml file called `msrg_env.yml` is included with the repository.
 
