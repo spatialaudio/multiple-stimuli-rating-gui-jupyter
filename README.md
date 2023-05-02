@@ -1,9 +1,9 @@
 # multiple-stimuli-rating-gui-jupyter
 
-This Repository is meant to provide an overview of how jupyter notebook can be used to design and perform multiple stimuli listening tests. 
-Jupyter with the jupyter widgets library is used to create a GUI that is then connected to the Reaper DAW by the means of the reaper API as well as the Open Sound Control (OSC) protocol. This makes it possible to create the stimuli for the test dynamically which in turn ensures easy use of headtracking and similar.
+This Repository is meant to provide an overview of how Jupyter notebook can be used to design and perform multiple stimuli listening tests. 
+Jupyter with the Jupyter widgets library is used to create a GUI that is then connected to the Reaper DAW by the means of the Reaper API as well as the Open Sound Control (OSC) protocol. This makes it possible to create the stimuli for the test dynamically which in turn ensures easy use of headtracking and similar.
 
-The `jupyter_GUI_minimal` notebook is a step by step tutorial on how to use the seperate elements needed and ends with a full working GUI.
+The `jupyter_GUI_minimal` notebook is a step by step tutorial on how to use the separate elements needed and concludes with a full working GUI.
 
 The two Reaper projects provided are used by the notebook for demonstration purposes and also give an idea on how such a project needs to be structured. 
 
@@ -17,4 +17,3 @@ The two Reaper projects provided are used by the notebook for demonstration purp
 - ABComparison Plugin v1.4.0
 
 A corresponding yml file called `msrg_env.yml` is included with the repository.
-
